@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
   </a>
 </p>
-<br>
 <h4 align="center">
   Projeto desenvolvido para a loja Touch Imports.
 </h4>
